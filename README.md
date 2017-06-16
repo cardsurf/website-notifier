@@ -1,4 +1,4 @@
-# Download and upload speed
+# Website notifier
 An applet that shows a notification when a website updates for Linux Mint Cinnamon
 
 ![Alt text](../master/screenshots/screenshot.png "Website notifier")
